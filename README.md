@@ -19,5 +19,6 @@ Vengo dalle parole, ma ora sto imparando a farle girare dentro editor, terminale
 
 ### ✒️ Poetry
 
-> *“Scrivo versi come scrivo funzioni: cercando il modo più semplice per dire qualcosa di complesso.”*
+<h4><i>“Scrivo versi come scrivo funzioni: cercando il modo più semplice per dire qualcosa di complesso.”</i></h4>
+
 
